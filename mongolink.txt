@@ -1,0 +1,1 @@
+mongodb+srv://wainaina:<password>@cluster0.sk1gk4h.mongodb.net/?retryWrites=true&w=majority
